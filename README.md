@@ -14,7 +14,7 @@ Used to be a simple skeleton with libgdx.
 
 ![alt text](https://raw.githubusercontent.com/nip009/RoboRally/master/RoboRally/Readme_Images/selectmap.png)
 
-![alt text](https://raw.githubusercontent.com/nip009/RoboRally/master/RoboRally/Readme_Images/game.png)
+![alt text](https://github.com/nip009/RoboRally/Readme_Images/game.png)
 
 
 #### How to play
