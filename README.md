@@ -7,6 +7,16 @@ Group 5.1
 # INF112 RoboRally game
 Used to be a simple skeleton with libgdx.
 
+# Pictures of the product
+![alt text](https://raw.githubusercontent.com/nip009/RoboRally/master/RoboRally/Readme_Images/frontpage.png)
+
+![alt text](https://raw.githubusercontent.com/nip009/RoboRally/master/RoboRally/Readme_Images/selectskin.png)
+
+![alt text](https://raw.githubusercontent.com/nip009/RoboRally/master/RoboRally/Readme_Images/selectmap.png)
+
+![alt text](https://raw.githubusercontent.com/nip009/RoboRally/master/RoboRally/Readme_Images/game.png)
+
+
 #### How to play
 Choose a card by clicking on one of the cards to the right. These are the cards you currently have in your hand.
 Choosing a card will put it in the register. You can click on the card in the register to remove it again.
