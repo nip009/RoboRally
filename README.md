@@ -8,7 +8,7 @@ Group 5.1
 Used to be a simple skeleton with libgdx.
 
 # The product
-![RoboRally demo]((https://github.com/nip009/RoboRally/blob/master/assets/RoboRallyDemo.gif)
+![RoboRally demo](https://github.com/nip009/RoboRally/blob/master/assets/RoboRallyDemo.gif)
 
 ![alt text](https://github.com/nip009/RoboRally/blob/master/Readme_Images/frontpage.png)
 
