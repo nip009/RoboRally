@@ -7,7 +7,9 @@ Group 5.1
 # INF112 RoboRally game
 Used to be a simple skeleton with libgdx.
 
-# Pictures of the product
+# The product
+![RoboRally demo]((https://github.com/nip009/RoboRally/blob/master/assets/RoboRallyDemo.gif)
+
 ![alt text](https://github.com/nip009/RoboRally/blob/master/Readme_Images/frontpage.png)
 
 ![alt text](https://github.com/nip009/RoboRally/blob/master/Readme_Images/selectskin.png)
